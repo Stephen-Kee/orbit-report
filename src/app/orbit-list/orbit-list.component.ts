@@ -14,3 +14,12 @@ export class OrbitListComponent implements OnInit {
   }
 
 }
+export class Warn implements OnInit {
+  alternateColor: string = 'red';
+  changeColor: boolean = true;
+  
+  constructor() { }
+
+  ngOnInit() { }
+
+}

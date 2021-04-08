@@ -44,7 +44,7 @@ h3 {
 }
 
 table {
-  color: rgb(83, 0, 0);
+  color: rgb(0, 0, 0);
   border-radius: 5px;
   overflow: hidden;
   margin: 16px 0;
@@ -62,3 +62,8 @@ th, td {
     margin: 5px 10px;
     padding: 6px;
 }
+.td-style {
+    color: black;
+    background-color:red;
+    
+ }
