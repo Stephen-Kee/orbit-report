@@ -8,6 +8,7 @@ import { OrbitListComponent } from './orbit-list/orbit-list.component';
   declarations: [
     AppComponent,
     OrbitListComponent
+    
   ],
   imports: [
     BrowserModule
